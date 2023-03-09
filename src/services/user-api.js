@@ -1,6 +1,6 @@
 import axios from "axios"; 
 
-const URL="https://traveller-nr3n.onrender.com";
+const URL="https://traveller-ruts.onrender.com";
 
 export const register = async (signUp)=>{
     try{
