@@ -1,7 +1,7 @@
 import axios from "axios"; 
 //import { getAccessToken } from "../utils/common-utils.js";
 
-const URL="https://traveller-nr3n.onrender.com";
+const URL="https://traveller-ruts.onrender.com";
 
 
 export const addArticle= async (data)=>{
